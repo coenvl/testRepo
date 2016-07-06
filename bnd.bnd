@@ -1,0 +1,3 @@
+-includeresource: lib
+Export-Package: org.apache.commons**
+-buildpath: lib/collections-generic-4.01.jar;version=file
